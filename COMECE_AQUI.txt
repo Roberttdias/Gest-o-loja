@@ -1,0 +1,15 @@
+SKINÃO DO ESPORTE — VERSÃO LOCAL
+
+1. Extraia o ZIP inteiro.
+2. É necessário Python 3.11 ou superior.
+3. No Windows, abra DEMONSTRACAO_WINDOWS.bat para testar com dados fictícios.
+4. Usuário: admin. A senha do primeiro acesso aparece na janela do servidor.
+5. Para a base real vazia, encerre a demonstração e abra INICIAR_WINDOWS.bat.
+6. Mantenha a janela do servidor aberta durante o uso.
+
+Gestão: http://127.0.0.1:8000/gestao
+Catálogo: http://127.0.0.1:8000/catalogo
+São endereços locais, não links públicos.
+
+Veja LEIA-ME.md para backup, senha e manual.
+Não processa pagamento nem emite nota fiscal.

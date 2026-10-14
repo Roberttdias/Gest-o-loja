@@ -1,0 +1,18 @@
+{
+  "parts": [
+    {
+      "name": "NexAdmin.z01",
+      "bytes": 26214400,
+      "sha256": "0a63c1baf5cddf03ac7734978760f7e60d2bb68a185928942751731673f8164f"
+    },
+    {
+      "name": "NexAdmin.zip",
+      "bytes": 23396423,
+      "sha256": "0d152f5a6d3ed5e290136ead7a728b0411c9bd18f273f2c177a600d6263878db"
+    }
+  ],
+  "reassembly": "Volumes concatenados; n\u00fameros de disco do EOCD zerados; offset do diret\u00f3rio central ajustado pelo tamanho da primeira parte. Originais preservados.",
+  "exe_bytes": 50295048,
+  "exe_sha256": "17bf16a06a1091d379af09c5788671af9339c35dba2c5a1c77c81a8f214c6c33",
+  "crc_verified": true
+}

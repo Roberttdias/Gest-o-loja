@@ -1,0 +1,18 @@
+{
+  "checks": [
+    "Login e painel desktop",
+    "Abertura de caixa pela interface",
+    "Cadastro de cliente",
+    "Cadastro e busca de uma variação",
+    "Venda com cliente, desconto e recibo",
+    "Pedido público sem login administrativo",
+    "Confirmação do pedido em venda",
+    "Baixa única do pedido e reposição de estoque",
+    "Conferência de caixa: dinheiro separado de Pix",
+    "Relatórios com vendas de balcão e catálogo",
+    "Configuração do WhatsApp",
+    "Catálogo em celular, sem transbordamento horizontal",
+    "Gestão em celular, sem transbordamento horizontal"
+  ],
+  "browser_errors": []
+}
